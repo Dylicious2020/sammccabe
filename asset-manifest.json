@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/sammccabe/static/css/main.cb262f14.css",
-    "main.js": "/sammccabe/static/js/main.d2846fb0.js",
+    "main.css": "/sammccabe/static/css/main.1b27a55c.css",
+    "main.js": "/sammccabe/static/js/main.d6cfda11.js",
     "static/js/453.9647c87a.chunk.js": "/sammccabe/static/js/453.9647c87a.chunk.js",
     "static/media/433659269___n copy.png": "/sammccabe/static/media/433659269_18427231504051854_1439479598289703844_n copy.0012bae507fe2ff4622a.png",
     "static/media/433659269___n.jpg": "/sammccabe/static/media/433659269_18427231504051854_1439479598289703844_n.c9569d15e5fd6504e707.jpg",
@@ -32,12 +32,12 @@
     "static/media/youwantmylove.jpeg": "/sammccabe/static/media/youwantmylove.92d533820d0917da48f0.jpeg",
     "index.html": "/sammccabe/index.html",
     "static/media/Noise.svg": "/sammccabe/static/media/Noise.5a08fb8c78167ffac683.svg",
-    "main.cb262f14.css.map": "/sammccabe/static/css/main.cb262f14.css.map",
-    "main.d2846fb0.js.map": "/sammccabe/static/js/main.d2846fb0.js.map",
+    "main.1b27a55c.css.map": "/sammccabe/static/css/main.1b27a55c.css.map",
+    "main.d6cfda11.js.map": "/sammccabe/static/js/main.d6cfda11.js.map",
     "453.9647c87a.chunk.js.map": "/sammccabe/static/js/453.9647c87a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cb262f14.css",
-    "static/js/main.d2846fb0.js"
+    "static/css/main.1b27a55c.css",
+    "static/js/main.d6cfda11.js"
   ]
 }
