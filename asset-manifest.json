@@ -1,11 +1,13 @@
 {
   "files": {
-    "main.css": "/sammccabe/static/css/main.d0eb92b4.css",
-    "main.js": "/sammccabe/static/js/main.0d0bff07.js",
+    "main.css": "/sammccabe/static/css/main.cb262f14.css",
+    "main.js": "/sammccabe/static/js/main.724a7636.js",
     "static/js/453.9647c87a.chunk.js": "/sammccabe/static/js/453.9647c87a.chunk.js",
     "static/media/433659269___n copy.png": "/sammccabe/static/media/433659269_18427231504051854_1439479598289703844_n copy.0012bae507fe2ff4622a.png",
     "static/media/433659269___n.jpg": "/sammccabe/static/media/433659269_18427231504051854_1439479598289703844_n.c9569d15e5fd6504e707.jpg",
     "static/media/448112011___n.jpg": "/sammccabe/static/media/448112011_1647279566101894_3986347083386583710_n.857ba62cf3e572d9483b.jpg",
+    "static/media/443820035___n.jpg": "/sammccabe/static/media/443820035_1368000387925453_264173575648731286_n.986b9db237410d53962f.jpg",
+    "static/media/samNashShow.jpg": "/sammccabe/static/media/samNashShow.45a6c97dc76397a6f71c.jpg",
     "static/media/deathofdeath.jpeg": "/sammccabe/static/media/deathofdeath.65330818f45397af8825.jpeg",
     "static/media/jesuslovestheworld.jpeg": "/sammccabe/static/media/jesuslovestheworld.1189e08c21fd7d2abf06.jpeg",
     "static/media/altarfire2.jpeg": "/sammccabe/static/media/altarfire2.0dc853099cc69ec4422e.jpeg",
@@ -30,12 +32,12 @@
     "static/media/youwantmylove.jpeg": "/sammccabe/static/media/youwantmylove.92d533820d0917da48f0.jpeg",
     "index.html": "/sammccabe/index.html",
     "static/media/Noise.svg": "/sammccabe/static/media/Noise.5a08fb8c78167ffac683.svg",
-    "main.d0eb92b4.css.map": "/sammccabe/static/css/main.d0eb92b4.css.map",
-    "main.0d0bff07.js.map": "/sammccabe/static/js/main.0d0bff07.js.map",
+    "main.cb262f14.css.map": "/sammccabe/static/css/main.cb262f14.css.map",
+    "main.724a7636.js.map": "/sammccabe/static/js/main.724a7636.js.map",
     "453.9647c87a.chunk.js.map": "/sammccabe/static/js/453.9647c87a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d0eb92b4.css",
-    "static/js/main.0d0bff07.js"
+    "static/css/main.cb262f14.css",
+    "static/js/main.724a7636.js"
   ]
 }
